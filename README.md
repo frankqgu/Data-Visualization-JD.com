@@ -7,4 +7,4 @@ Import and export xml and mysql data from reviews on JD.com to create data visua
 
 ![image](https://user-images.githubusercontent.com/130730924/232279957-7235dc2b-8e3c-42af-9dcc-93a027abf367.png)
 
-*images taken by guchangyong in order to display chinese sites correctly*
+*images taken by guchangyong in order for jd.com to load correctly*
